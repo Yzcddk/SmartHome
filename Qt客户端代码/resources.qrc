@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login/farsight.png</file>
+        <file>image/login/lock_ico.png</file>
+        <file>image/login/login_bj.jpg</file>
+        <file>image/login/loging_button_bj.png</file>
+        <file>image/login/登录.jpg</file>
+        <file>image/login/管理员.png</file>
+        <file>image/login/edittext_bj.png</file>
+    </qresource>
+</RCC>
