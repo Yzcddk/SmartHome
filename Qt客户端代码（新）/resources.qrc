@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/login/login_bj.jpg</file>
+        <file>image/login/登录.jpg</file>
+        <file>image/login/管理员.png</file>
+        <file>image/login/edittext_bj.jpg</file>
+        <file>image/login/loging_button_bj.jpg</file>
+        <file>image/login/farsight.png</file>
+        <file>image/login/lock_ico.png</file>
+        <file>image/login/preview.jpg</file>
+        <file>image/login/588f1338094.jpg</file>
+        <file>image/login/timg.jpg</file>
+        <file>image/login/dev_button_ico.png</file>
+        <file>image/login/email_no_ico.png</file>
+        <file>image/login/email_yes_ico.png</file>
+        <file>image/login/home_bh.png</file>
+        <file>image/login/home_ico.png</file>
+        <file>image/login/humidity_button_ico.png</file>
+        <file>image/login/illumination_button_ico.png</file>
+        <file>image/login/meadioplayer_button_ico.png</file>
+        <file>image/login/pellet_ico.png</file>
+        <file>image/login/temperature_button_ico.png</file>
+        <file>image/login/video_button_ico.png</file>
+        <file>image/login/yule_button_ico.png</file>
+        <file>image/login/智能家居主界面.jpg</file>
+        <file>image/login/closedoor_ico.png</file>
+        <file>image/login/closefan_ico.png</file>
+        <file>image/login/closeled_ico.png</file>
+        <file>image/login/OFF.png</file>
+        <file>image/login/ON.png</file>
+        <file>image/login/opendoor_ico.png</file>
+        <file>image/login/openfan_ico.png</file>
+        <file>image/login/openled_ico.png</file>
+        <file>image/login/房间主背景.jpg</file>
+        <file>image/login/dev_button_press.png</file>
+    </qresource>
+</RCC>
